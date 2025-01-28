@@ -1,4 +1,4 @@
-# speechcracker
+# Speech Cracker
 OSINT Web Application
 Speechcracker is an Open-Source Intelligence (OSINT) web application designed for speech analysis using Natural Language Processing (NLP). This tool helps analysts to extract insights from speeches or interviews by identifying key themes, sentiments, and the dominant direction of a speaker's message.
 
