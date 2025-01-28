@@ -1,6 +1,6 @@
 # SPRACK (Speech Cracker: Speech Analysis Application
-SPRACK isOSINT Web Application
-Speechcracker is an Open-Source Intelligence (OSINT) web application designed for speech analysis using Natural Language Processing (NLP). This tool helps analysts to extract insights from speeches or interviews by identifying key themes, sentiments, and the dominant direction of a speaker's message.
+SPRACK is Web Application
+Speechcracker is an web application designed for speech analysis using Natural Language Processing (NLP). This tool helps analysts to extract insights from speeches or interviews by identifying key themes, sentiments, and the dominant direction of a speaker's message.
 
 # The application utilizes advanced NLP techniques to:
 
